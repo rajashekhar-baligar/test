@@ -1,2 +1,6 @@
 hello how are you doing?
+<<<<<<< HEAD
 hey i am in master branch....where are you ?
+=======
+i am good how you!!
+>>>>>>> child
